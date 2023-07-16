@@ -17,15 +17,16 @@ export default function Home() {
         />
         <div className="space-y-4">
           <h1 className="font-bold text-4xl tracking-tight">
-            Welcome, I'm Veloi.
+            Welcome, I&#39;m Veloi.
           </h1>
           <div className="max-w-2xl text-lg tracking-wide text-neutral-400 space-y-4">
             <p>
-              I'm a skilled React developer with expertise in TypeScript and
+              I&#39;m a skilled React developer with expertise in TypeScript and
               React Native, dedicated to crafting delightful user experiences.
             </p>
             <p className="text-rose-400 text-base">
-              Open for commissions on Fiverr, let's bring your ideas to life!
+              Open for commissions on Fiverr, let&#39;s bring your ideas to
+              life!
             </p>
           </div>
           <div className="flex pt-4 gap-5 items-center">

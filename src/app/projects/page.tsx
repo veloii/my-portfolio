@@ -9,8 +9,8 @@ export default function Projects() {
         <div className="space-y-4">
           <h1 className="font-bold text-4xl tracking-tight">Projects</h1>
           <p className="max-w-2xl text-lg tracking-wide text-neutral-400">
-            I've worked on many smaller projects, however these are the probably
-            the biggest ones that I am most proud of.
+            I&#39;ve worked on many smaller projects, however these are the
+            probably the biggest ones that I am most proud of.
           </p>
         </div>
         <section className="pt-6 pb-4 grid md:grid-cols-2 gap-6">
